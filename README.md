@@ -8,7 +8,7 @@ A reporting analyst may have multiple pages that need the same work done. With E
 
 * [Test Data](Resources/alphabetical_testing.xlsx) - Use this while developing your scripts.
 
-* [Stock Data](Resources/Multiple_year_stock_data.xlsx) - Run your scripts on this data to generate the final homework report.
+* [Stock Data](Resources/Multiple_year_stock_data.xlsx) - Run your scripts on this data to generate the final report.
 
 ### Stock Market Analyst
 
