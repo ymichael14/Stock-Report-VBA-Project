@@ -36,11 +36,11 @@ Add functionality to your script to return the stock with the "Greatest % increa
 
 Made the appropriate adjustments to my VBA script to allow it to run on every worksheet (that is, every year) just by running the VBA script once.
 
-## Other Considerations
+##Considerations
 
 * Make sure that the script acts dynamically, so code acts the same on every sheet. The joy of VBA is that it takes the tediousness out of repetitive tasks with one click of a button.
 
-* Some assignments, like this one, contain a bonus. It is possible to achieve proficiency for this assignment without completing the bonus. The bonus is an opportunity to further develop your skills and be rewarded extra points for doing so.
+
 
 ## Screenshots of excel files after running the code are in the repository
 
